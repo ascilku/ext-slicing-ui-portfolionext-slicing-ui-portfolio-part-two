@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## dokumentasi youtube
+
+https://www.youtube.com/watch?v=by0Cbri7wnQ
+
+## dokumentasi figma
+
+https://www.figma.com/design/XDTQnPi6E6xrQPSWVMt7Ix/Belajar-Slicing-UI-Next-Js-Tailwind-(Community)?node-id=1-2&t=AQ3NRmUi90IOtdqQ-0
